@@ -1,0 +1,1 @@
+Test kako program sortira rijeci i identifikuje duplikate. Rijeci poput Test i rijeci se pojavljuju vise puta radi provjere ispravnosti programa.
